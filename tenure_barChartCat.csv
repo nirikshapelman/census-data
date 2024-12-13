@@ -1,0 +1,5155 @@
+code,category,value,areaName,cx,cy
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000530,sharedOwn,981,Aldershot,485390,154700
+E14000530,laRent,5701,Aldershot,485390,154700
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000531,sharedOwn,1853,Aldridge-Brownhills,404909,301833
+E14000531,laRent,3146,Aldridge-Brownhills,404909,301833
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000532,sharedOwn,1206,Altrincham and Sale West,375674,388838
+E14000532,laRent,3431,Altrincham and Sale West,375674,388838
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000534,sharedOwn,916,Arundel and South Downs,508731,115375
+E14000534,laRent,3652,Arundel and South Downs,508731,115375
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000535,sharedOwn,5339,Ashfield,448781,355341
+E14000535,laRent,1640,Ashfield,448781,355341
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000536,sharedOwn,4644,Ashford,595309,140400
+E14000536,laRent,2682,Ashford,595309,140400
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000537,sharedOwn,2413,Ashton-under-Lyne,392732,400222
+E14000537,laRent,6361,Ashton-under-Lyne,392732,400222
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000540,sharedOwn,12342,Barking,546948,183997
+E14000540,laRent,3697,Barking,546948,183997
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000543,sharedOwn,2874,Barrow and Furness,324404,477863
+E14000543,laRent,1395,Barrow and Furness,324404,477863
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000544,sharedOwn,5548,Basildon and Billericay,568627,192134
+E14000544,laRent,3119,Basildon and Billericay,568627,192134
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000545,sharedOwn,534,Basingstoke,465293,152386
+E14000545,laRent,9602,Basingstoke,465293,152386
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000546,sharedOwn,5827,Bassetlaw,467487,384786
+E14000546,laRent,1509,Bassetlaw,467487,384786
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000547,sharedOwn,1690,Bath,374735,164916
+E14000547,laRent,4917,Bath,374735,164916
+E14000547,5,9599,Bath,374735,164916
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000548,sharedOwn,5112,Batley and Spen,420688,425413
+E14000548,laRent,2007,Batley and Spen,420688,425413
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000549,sharedOwn,6972,Battersea,527732,175487
+E14000549,laRent,4482,Battersea,527732,175487
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000550,sharedOwn,706,Beaconsfield,495946,185684
+E14000550,laRent,4252,Beaconsfield,495946,185684
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000551,sharedOwn,284,Beckenham,539749,166253
+E14000551,laRent,2801,Beckenham,539749,166253
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000552,sharedOwn,1381,Bedford,505268,249262
+E14000552,laRent,7467,Bedford,505268,249262
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000553,sharedOwn,16339,Bermondsey and Old Southwark,533646,179242
+E14000553,laRent,8513,Bermondsey and Old Southwark,533646,179242
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000554,sharedOwn,2620,Berwick-upon-Tweed,404478,615442
+E14000554,laRent,3281,Berwick-upon-Tweed,404478,615442
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000556,sharedOwn,3212,Beverley and Holderness,516589,434774
+E14000556,laRent,1107,Beverley and Holderness,516589,434774
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000557,sharedOwn,927,Bexhill and Battle,570841,118784
+E14000557,laRent,3173,Bexhill and Battle,570841,118784
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000558,sharedOwn,938,Bexleyheath and Crayford,550488,175980
+E14000558,laRent,4517,Bexleyheath and Crayford,550488,175980
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000559,sharedOwn,2561,Birkenhead,331149,387995
+E14000559,laRent,7423,Birkenhead,331149,387995
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000560,sharedOwn,6886,Birmingham Edgbaston,402451,283933
+E14000560,laRent,3268,Birmingham Edgbaston,402451,283933
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000561,sharedOwn,6598,Birmingham Erdington,411042,291996
+E14000561,laRent,5528,Birmingham Erdington,411042,291996
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000563,sharedOwn,7216,Birmingham Hodge Hill,413105,288007
+E14000563,laRent,3148,Birmingham Hodge Hill,413105,288007
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000564,sharedOwn,9998,Birmingham Ladywood,407123,287902
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000565,sharedOwn,8945,Birmingham Northfield,402300,278665
+E14000565,laRent,3853,Birmingham Northfield,402300,278665
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000566,sharedOwn,2546,Birmingham Perry Barr,406026,291977
+E14000566,laRent,4707,Birmingham Perry Barr,406026,291977
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000567,sharedOwn,5349,Birmingham Selly Oak,406301,280752
+E14000567,laRent,3471,Birmingham Selly Oak,406301,280752
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000568,sharedOwn,6623,Birmingham Yardley,413082,284977
+E14000568,laRent,2452,Birmingham Yardley,413082,284977
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000569,sharedOwn,3390,Bishop Auckland,401559,522809
+E14000569,laRent,4384,Bishop Auckland,401559,522809
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000570,sharedOwn,2274,Blackburn,367453,427597
+E14000570,laRent,6901,Blackburn,367453,427597
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000571,sharedOwn,8331,Blackley and Broughton,384912,401930
+E14000571,laRent,7453,Blackley and Broughton,384912,401930
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000572,sharedOwn,2247,Blackpool North and Cleveleys,331934,440430
+E14000572,laRent,1652,Blackpool North and Cleveleys,331934,440430
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000573,sharedOwn,1753,Blackpool South,332355,434069
+E14000573,laRent,1475,Blackpool South,332355,434069
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000575,laRent,2348,Blyth Valley,428709,577642
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000577,sharedOwn,6212,Bolsover,446244,367574
+E14000577,laRent,1488,Bolsover,446244,367574
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000578,sharedOwn,5087,Bolton North East,372820,411506
+E14000578,laRent,4276,Bolton North East,372820,411506
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000579,sharedOwn,5320,Bolton South East,372466,406102
+E14000579,laRent,4558,Bolton South East,372466,406102
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000580,sharedOwn,3850,Bolton West,365677,408849
+E14000580,laRent,2350,Bolton West,365677,408849
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000581,sharedOwn,3025,Bootle,333650,397237
+E14000581,laRent,9115,Bootle,333650,397237
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000582,sharedOwn,2509,Boston and Skegness,538321,350312
+E14000582,laRent,5707,Boston and Skegness,538321,350312
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000583,sharedOwn,2917,Bosworth,440887,302148
+E14000583,laRent,1993,Bosworth,440887,302148
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000584,sharedOwn,1882,Bournemouth East,412324,92911
+E14000584,laRent,2358,Bournemouth East,412324,92911
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000585,sharedOwn,3593,Bournemouth West,407231,94042
+E14000585,laRent,2342,Bournemouth West,407231,94042
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000587,sharedOwn,3002,Bradford East,417635,435456
+E14000587,laRent,5091,Bradford East,417635,435456
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000588,sharedOwn,3100,Bradford South,416006,429848
+E14000588,laRent,4187,Bradford South,416006,429848
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000589,sharedOwn,2038,Bradford West,412130,433564
+E14000589,laRent,4340,Bradford West,412130,433564
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000593,sharedOwn,6357,Brentford and Isleworth,517017,177210
+E14000593,laRent,4011,Brentford and Isleworth,517017,177210
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000594,sharedOwn,3560,Brentwood and Ongar,556728,200151
+E14000594,laRent,1346,Brentwood and Ongar,556728,200151
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000595,sharedOwn,2970,Bridgwater and West Somerset,307682,138255
+E14000595,laRent,4433,Bridgwater and West Somerset,307682,138255
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000596,sharedOwn,2596,Brigg and Goole,484706,413990
+E14000596,laRent,1838,Brigg and Goole,484706,413990
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000598,sharedOwn,2949,Brighton Pavilion,531098,108080
+E14000598,laRent,2292,Brighton Pavilion,531098,108080
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000599,sharedOwn,4406,Bristol East,362521,172704
+E14000599,laRent,2200,Bristol East,362521,172704
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000600,sharedOwn,7484,Bristol North West,341231,173291
+E14000600,laRent,1965,Bristol North West,341231,173291
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000602,sharedOwn,4933,Bristol West,359085,173952
+E14000602,laRent,3946,Bristol West,359085,173952
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000603,sharedOwn,601,Broadland,614791,321402
+E14000603,laRent,4111,Broadland,614791,321402
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000604,sharedOwn,710,Bromley and Chislehurst,543115,169928
+E14000604,laRent,5386,Bromley and Chislehurst,543115,169928
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000605,sharedOwn,1452,Bromsgrove,398941,273981
+E14000605,laRent,2965,Bromsgrove,398941,273981
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000608,sharedOwn,1266,Buckingham,476170,222360
+E14000608,laRent,4064,Buckingham,476170,222360
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000609,sharedOwn,1747,Burnley,385492,431354
+E14000609,laRent,4462,Burnley,385492,431354
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000611,sharedOwn,3241,Bury North,378841,413540
+E14000611,laRent,2304,Bury North,378841,413540
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000612,sharedOwn,3477,Bury South,380100,406363
+E14000612,laRent,3022,Bury South,380100,406363
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000613,sharedOwn,3271,Bury St Edmunds,597496,265064
+E14000613,laRent,4264,Bury St Edmunds,597496,265064
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000614,sharedOwn,1734,Calder Valley,400682,424594
+E14000614,laRent,4181,Calder Valley,400682,424594
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000615,sharedOwn,17226,Camberwell and Peckham,534255,176302
+E14000615,laRent,6947,Camberwell and Peckham,534255,176302
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000616,sharedOwn,1298,Camborne and Redruth,168734,37188
+E14000616,laRent,4238,Camborne and Redruth,168734,37188
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000617,sharedOwn,6384,Cambridge,545611,258013
+E14000617,laRent,4609,Cambridge,545611,258013
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000618,sharedOwn,4894,Cannock Chase,401423,312759
+E14000618,laRent,2137,Cannock Chase,401423,312759
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000619,sharedOwn,4085,Canterbury,615542,156594
+E14000619,laRent,2156,Canterbury,615542,156594
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000622,sharedOwn,1423,Castle Point,580167,185096
+E14000622,laRent,628,Castle Point,580167,185096
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000624,sharedOwn,2914,Central Suffolk and North Ipswich,620044,262817
+E14000624,laRent,2330,Central Suffolk and North Ipswich,620044,262817
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000625,sharedOwn,1663,Charnwood,458521,311508
+E14000625,laRent,1601,Charnwood,458521,311508
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000626,sharedOwn,1142,Chatham and Aylesford,572913,161627
+E14000626,laRent,5682,Chatham and Aylesford,572913,161627
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000627,sharedOwn,1254,Cheadle,387734,386024
+E14000627,laRent,1284,Cheadle,387734,386024
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000628,sharedOwn,1205,Chelmsford,571601,205834
+E14000628,laRent,5902,Chelmsford,571601,205834
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000629,sharedOwn,5547,Chelsea and Fulham,525991,177272
+E14000629,laRent,5148,Chelsea and Fulham,525991,177272
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000630,sharedOwn,3792,Cheltenham,394967,221498
+E14000630,laRent,2214,Cheltenham,394967,221498
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000631,sharedOwn,709,Chesham and Amersham,494987,198845
+E14000631,laRent,4182,Chesham and Amersham,494987,198845
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000632,sharedOwn,7492,Chesterfield,438349,372440
+E14000632,laRent,1448,Chesterfield,438349,372440
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000633,sharedOwn,975,Chichester,485817,114741
+E14000633,laRent,6580,Chichester,485817,114741
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000634,sharedOwn,3069,Chingford and Woodford Green,538905,192911
+E14000634,laRent,2705,Chingford and Woodford Green,538905,192911
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000635,sharedOwn,772,Chippenham,387532,165221
+E14000635,laRent,5570,Chippenham,387532,165221
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000636,sharedOwn,2858,Chipping Barnet,525269,194634
+E14000636,laRent,2339,Chipping Barnet,525269,194634
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000637,sharedOwn,1179,Chorley,359779,418838
+E14000637,laRent,5173,Chorley,359779,418838
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000638,sharedOwn,466,Christchurch,411886,98973
+E14000638,laRent,3495,Christchurch,411886,98973
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000639,sharedOwn,4525,Cities of London and Westminster,529634,180444
+E14000639,laRent,7517,Cities of London and Westminster,529634,180444
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000640,sharedOwn,1818,City of Chester,339512,366214
+E14000640,laRent,5227,City of Chester,339512,366214
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000641,sharedOwn,3466,City of Durham,428199,541126
+E14000641,laRent,4234,City of Durham,428199,541126
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000533,sharedOwn,1940,Amber Valley,440412,349347
+E14000533,laRent,3980,Amber Valley,440412,349347
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000539,sharedOwn,1225,Banbury,449019,232788
+E14000539,laRent,6531,Banbury,449019,232788
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000541,sharedOwn,6357,Barnsley Central,434061,409128
+E14000541,laRent,1827,Barnsley Central,434061,409128
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000542,sharedOwn,7369,Barnsley East,439317,405192
+E14000542,laRent,1607,Barnsley East,439317,405192
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000555,sharedOwn,9411,Bethnal Green and Bow,535660,182551
+E14000555,laRent,11661,Bethnal Green and Bow,535660,182551
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000562,sharedOwn,2566,Birmingham Hall Green,409006,282785
+E14000562,laRent,4597,Birmingham Hall Green,409006,282785
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000574,sharedOwn,6061,Blaydon,418570,559721
+E14000574,laRent,1467,Blaydon,418570,559721
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000576,sharedOwn,2237,Bognor Regis and Littlehampton,496153,101160
+E14000576,laRent,2772,Bognor Regis and Littlehampton,496153,101160
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000586,sharedOwn,2602,Bracknell,483659,165114
+E14000586,laRent,4933,Bracknell,483659,165114
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000590,sharedOwn,1346,Braintree,577146,234056
+E14000590,laRent,5253,Braintree,577146,234056
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000591,sharedOwn,5488,Brent Central,521378,185195
+E14000591,laRent,10197,Brent Central,521378,185195
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000592,sharedOwn,2268,Brent North,518195,186757
+E14000592,laRent,4519,Brent North,518195,186757
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000597,sharedOwn,6181,Brighton Kemptown,536551,104259
+E14000597,laRent,2464,Brighton Kemptown,536551,104259
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000601,sharedOwn,8153,Bristol South,358454,169642
+E14000601,laRent,2791,Bristol South,358454,169642
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000606,sharedOwn,1457,Broxbourne,533529,204091
+E14000606,laRent,4331,Broxbourne,533529,204091
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000607,sharedOwn,3279,Broxtowe,450184,341095
+E14000607,laRent,997,Broxtowe,450184,341095
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000610,sharedOwn,2214,Burton,412907,333472
+E14000610,laRent,4176,Burton,412907,333472
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000620,sharedOwn,1278,Carlisle,338762,553178
+E14000620,laRent,5100,Carlisle,338762,553178
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000621,sharedOwn,3728,Carshalton and Wallington,528539,164126
+E14000621,laRent,4120,Carshalton and Wallington,528539,164126
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000623,sharedOwn,1501,Central Devon,274790,94900
+E14000623,laRent,2607,Central Devon,274790,94900
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000642,sharedOwn,1350,Clacton,617611,219662
+E14000642,laRent,1940,Clacton,617611,219662
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000643,sharedOwn,1165,Cleethorpes,516199,412766
+E14000643,laRent,2857,Cleethorpes,516199,412766
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000644,sharedOwn,4277,Colchester,599370,225326
+E14000644,laRent,4051,Colchester,599370,225326
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000645,sharedOwn,3471,Colne Valley,409597,410475
+E14000645,laRent,1213,Colne Valley,409597,410475
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000646,sharedOwn,971,Congleton,379592,362784
+E14000646,laRent,3989,Congleton,379592,362784
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000649,sharedOwn,3062,Coventry North East,436341,280786
+E14000649,laRent,6359,Coventry North East,436341,280786
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000650,sharedOwn,1819,Coventry North West,430304,281551
+E14000650,laRent,3600,Coventry North West,430304,281551
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000652,sharedOwn,7969,Crawley,527384,137909
+E14000652,laRent,2463,Crawley,527384,137909
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000653,sharedOwn,1940,Crewe and Nantwich,371373,351847
+E14000653,laRent,4581,Crewe and Nantwich,371373,351847
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000654,sharedOwn,6163,Croydon Central,535964,164915
+E14000654,laRent,4517,Croydon Central,535964,164915
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000655,sharedOwn,5865,Croydon North,532039,168432
+E14000655,laRent,5582,Croydon North,532039,168432
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000656,sharedOwn,2741,Croydon South,532272,160856
+E14000656,laRent,2503,Croydon South,532272,160856
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000657,sharedOwn,7079,Dagenham and Rainham,551726,183520
+E14000657,laRent,2506,Dagenham and Rainham,551726,183520
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000660,sharedOwn,1238,Daventry,466117,268115
+E14000660,laRent,4565,Daventry,466117,268115
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000661,sharedOwn,2217,Denton and Reddish,391598,395545
+E14000661,laRent,4737,Denton and Reddish,391598,395545
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000662,sharedOwn,4939,Derby North,434463,336273
+E14000662,laRent,3266,Derby North,434463,336273
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000663,sharedOwn,5945,Derby South,436389,332555
+E14000663,laRent,4364,Derby South,436389,332555
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000664,sharedOwn,1027,Derbyshire Dales,421988,357452
+E14000664,laRent,3366,Derbyshire Dales,421988,357452
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000665,sharedOwn,1282,Devizes,415745,160863
+E14000665,laRent,5874,Devizes,415745,160863
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000666,sharedOwn,5483,Dewsbury,422161,414534
+E14000666,laRent,1236,Dewsbury,422161,414534
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000667,sharedOwn,5558,Don Valley,463011,401266
+E14000667,laRent,1102,Don Valley,463011,401266
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000668,sharedOwn,6136,Doncaster Central,460541,404812
+E14000668,laRent,1737,Doncaster Central,460541,404812
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000669,sharedOwn,6703,Doncaster North,457159,410319
+E14000669,laRent,1459,Doncaster North,457159,410319
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000670,sharedOwn,3723,Dover,630258,147443
+E14000670,laRent,2625,Dover,630258,147443
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000671,sharedOwn,6832,Dudley North,392895,291517
+E14000671,laRent,1916,Dudley North,392895,291517
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000673,sharedOwn,8054,Dulwich and West Norwood,532642,173384
+E14000673,laRent,6715,Dulwich and West Norwood,532642,173384
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000674,sharedOwn,3186,Ealing Central and Acton,519401,181301
+E14000674,laRent,5208,Ealing Central and Acton,519401,181301
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000675,sharedOwn,5626,Ealing North,514390,183182
+E14000675,laRent,3420,Ealing North,514390,183182
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000676,sharedOwn,2514,Ealing Southall,513996,179888
+E14000676,laRent,3428,Ealing Southall,513996,179888
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000677,sharedOwn,5005,Easington,441569,542677
+E14000677,laRent,3514,Easington,441569,542677
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000678,sharedOwn,2754,East Devon,304853,91537
+E14000678,laRent,2413,East Devon,304853,91537
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000681,sharedOwn,2679,East Surrey,536439,148997
+E14000681,laRent,2461,East Surrey,536439,148997
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000682,sharedOwn,2694,East Worthing and Shoreham,518395,106114
+E14000682,laRent,1778,East Worthing and Shoreham,518395,106114
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000683,sharedOwn,3386,East Yorkshire,496423,456235
+E14000683,laRent,1304,East Yorkshire,496423,456235
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000685,sharedOwn,654,Eastleigh,447851,114327
+E14000685,laRent,6452,Eastleigh,447851,114327
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000686,sharedOwn,1795,Eddisbury,356255,356963
+E14000686,laRent,3635,Eddisbury,356255,356963
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000687,sharedOwn,5487,Edmonton,534920,193969
+E14000687,laRent,3873,Edmonton,534920,193969
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000688,sharedOwn,4278,Ellesmere Port and Neston,338125,376023
+E14000688,laRent,2430,Ellesmere Port and Neston,338125,376023
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000689,sharedOwn,4118,Elmet and Rothwell,439446,437706
+E14000689,laRent,1110,Elmet and Rothwell,439446,437706
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000690,sharedOwn,7205,Eltham,542934,174894
+E14000690,laRent,2743,Eltham,542934,174894
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000691,sharedOwn,5327,Enfield North,532920,198397
+E14000691,laRent,2624,Enfield North,532920,198397
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000693,sharedOwn,5014,Epping Forest,542829,199994
+E14000693,laRent,1388,Epping Forest,542829,199994
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000694,sharedOwn,319,Epsom and Ewell,520996,160429
+E14000694,laRent,3530,Epsom and Ewell,520996,160429
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000695,sharedOwn,1611,Erewash,446424,336204
+E14000695,laRent,4132,Erewash,446424,336204
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000697,sharedOwn,851,Esher and Walton,512846,163273
+E14000697,laRent,4121,Esher and Walton,512846,163273
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000698,sharedOwn,4381,Exeter,292725,92911
+E14000698,laRent,3661,Exeter,292725,92911
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000699,sharedOwn,2020,Fareham,454329,106574
+E14000699,laRent,1593,Fareham,454329,106574
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000700,sharedOwn,1258,Faversham and Mid Kent,589887,155074
+E14000700,laRent,5051,Faversham and Mid Kent,589887,155074
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000701,sharedOwn,6893,Feltham and Heston,510761,174554
+E14000701,laRent,4356,Feltham and Heston,510761,174554
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000702,sharedOwn,760,Filton and Bradley Stoke,359043,182418
+E14000702,laRent,3953,Filton and Bradley Stoke,359043,182418
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000703,sharedOwn,2569,Finchley and Golders Green,525360,188740
+E14000703,laRent,2802,Finchley and Golders Green,525360,188740
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000704,sharedOwn,3259,Folkestone and Hythe,609400,133627
+E14000704,laRent,2168,Folkestone and Hythe,609400,133627
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000705,sharedOwn,847,Forest of Dean,367878,215547
+E14000705,laRent,4131,Forest of Dean,367878,215547
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000706,sharedOwn,473,Fylde,339932,432145
+E14000706,laRent,3022,Fylde,339932,432145
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000707,sharedOwn,1217,Gainsborough,501883,389049
+E14000707,laRent,3501,Gainsborough,501883,389049
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000708,sharedOwn,2333,Garston and Halewood,343288,384949
+E14000708,laRent,8686,Garston and Halewood,343288,384949
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000709,sharedOwn,9729,Gateshead,425879,561242
+E14000709,laRent,3211,Gateshead,425879,561242
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000710,sharedOwn,1883,Gedling,461055,343618
+E14000710,laRent,2454,Gedling,461055,343618
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000711,sharedOwn,2713,Gillingham and Rainham,580444,167312
+E14000711,laRent,1671,Gillingham and Rainham,580444,167312
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000712,sharedOwn,2770,Gloucester,383155,216391
+E14000712,laRent,4682,Gloucester,383155,216391
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000713,sharedOwn,3217,Gosport,458278,101545
+E14000713,laRent,2993,Gosport,458278,101545
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000714,sharedOwn,4706,Grantham and Stamford,502522,325492
+E14000714,laRent,1793,Grantham and Stamford,502522,325492
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000715,sharedOwn,5308,Gravesham,566790,170159
+E14000715,laRent,1962,Gravesham,566790,170159
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000717,sharedOwn,5464,Great Yarmouth,647812,311004
+E14000717,laRent,1749,Great Yarmouth,647812,311004
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000718,sharedOwn,10812,Greenwich and Woolwich,541070,178148
+E14000718,laRent,7852,Greenwich and Woolwich,541070,178148
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000720,sharedOwn,8667,Hackney North and Stoke Newington,533655,186612
+E14000720,laRent,9818,Hackney North and Stoke Newington,533655,186612
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000722,sharedOwn,6063,Halesowen and Rowley Regis,396769,285049
+E14000722,laRent,1547,Halesowen and Rowley Regis,396769,285049
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000723,sharedOwn,2059,Halifax,408492,427064
+E14000723,laRent,5196,Halifax,408492,427064
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000724,sharedOwn,2207,Haltemprice and Howden,485838,431323
+E14000724,laRent,537,Haltemprice and Howden,485838,431323
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000725,sharedOwn,2460,Halton,350149,384037
+E14000725,laRent,7498,Halton,350149,384037
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000726,sharedOwn,8236,Hammersmith,522869,179889
+E14000726,laRent,9093,Hammersmith,522869,179889
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000727,sharedOwn,7848,Hampstead and Kilburn,525523,184652
+E14000727,laRent,5571,Hampstead and Kilburn,525523,184652
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000728,sharedOwn,1337,Harborough,466858,291876
+E14000728,laRent,2440,Harborough,466858,291876
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000729,sharedOwn,9341,Harlow,545748,209694
+E14000729,laRent,2101,Harlow,545748,209694
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000730,sharedOwn,2317,Harrogate and Knaresborough,434469,459359
+E14000730,laRent,2370,Harrogate and Knaresborough,434469,459359
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000731,sharedOwn,2166,Harrow East,516551,191599
+E14000731,laRent,1544,Harrow East,516551,191599
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000733,sharedOwn,3986,Hartlepool,448213,530499
+E14000733,laRent,5608,Hartlepool,448213,530499
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000734,sharedOwn,2164,Harwich and North Essex,605618,225716
+E14000734,laRent,1231,Harwich and North Essex,605618,225716
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000735,sharedOwn,1057,Hastings and Rye,587396,116865
+E14000735,laRent,5664,Hastings and Rye,587396,116865
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000736,sharedOwn,4325,Havant,471632,104235
+E14000736,laRent,3983,Havant,471632,104235
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000737,sharedOwn,4485,Hayes and Harlington,508192,178390
+E14000737,laRent,3790,Hayes and Harlington,508192,178390
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000738,sharedOwn,2299,Hazel Grove,395156,389096
+E14000738,laRent,1828,Hazel Grove,395156,389096
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000739,sharedOwn,8055,Hemel Hempstead,504847,210770
+E14000739,laRent,2973,Hemel Hempstead,504847,210770
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000740,sharedOwn,6108,Hemsworth,441796,415842
+E14000740,laRent,3009,Hemsworth,441796,415842
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000741,sharedOwn,4605,Hendon,521565,191458
+E14000741,laRent,4863,Hendon,521565,191458
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000742,sharedOwn,634,Henley,463859,197492
+E14000742,laRent,3945,Henley,463859,197492
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000743,sharedOwn,2072,Hereford and South Herefordshire,344279,231051
+E14000743,laRent,4828,Hereford and South Herefordshire,344279,231051
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000744,sharedOwn,815,Hertford and Stortford,540952,214909
+E14000744,laRent,5397,Hertford and Stortford,540952,214909
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000745,sharedOwn,873,Hertsmere,518902,199041
+E14000745,laRent,6528,Hertsmere,518902,199041
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000746,sharedOwn,1509,Hexham,384724,573994
+E14000746,laRent,2803,Hexham,384724,573994
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000747,sharedOwn,4459,Heywood and Middleton,385849,411231
+E14000747,laRent,4843,Heywood and Middleton,385849,411231
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000748,sharedOwn,3610,High Peak,408443,386259
+E14000748,laRent,1347,High Peak,408443,386259
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000749,sharedOwn,2680,Hitchin and Harpenden,515681,220164
+E14000749,laRent,2806,Hitchin and Harpenden,515681,220164
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000751,sharedOwn,5132,Hornchurch and Upminster,556065,188298
+E14000751,laRent,1434,Hornchurch and Upminster,556065,188298
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000753,sharedOwn,551,Horsham,519521,130605
+E14000753,laRent,5123,Horsham,519521,130605
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000754,sharedOwn,4525,Houghton and Sunderland South,435301,550876
+E14000754,laRent,6422,Houghton and Sunderland South,435301,550876
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000755,sharedOwn,2965,Hove,526919,106858
+E14000755,laRent,2103,Hove,526919,106858
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000756,sharedOwn,5612,Huddersfield,415711,417422
+E14000756,laRent,2154,Huddersfield,415711,417422
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000757,sharedOwn,1301,Huntingdon,520795,266584
+E14000757,laRent,5915,Huntingdon,520795,266584
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000758,sharedOwn,1403,Hyndburn,375054,428471
+E14000758,laRent,4042,Hyndburn,375054,428471
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000759,sharedOwn,3592,Ilford North,544701,190562
+E14000759,laRent,1540,Ilford North,544701,190562
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000760,sharedOwn,2177,Ilford South,544796,187027
+E14000760,laRent,2620,Ilford South,544796,187027
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000761,sharedOwn,6017,Ipswich,617198,243722
+E14000761,laRent,4201,Ipswich,617198,243722
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000762,sharedOwn,678,Isle of Wight,449754,86499
+E14000762,laRent,6379,Isle of Wight,449754,86499
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000763,sharedOwn,11775,Islington North,530891,185905
+E14000763,laRent,6394,Islington North,530891,185905
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000764,sharedOwn,12306,Islington South and Finsbury,531749,183525
+E14000764,laRent,8312,Islington South and Finsbury,531749,183525
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000765,sharedOwn,9028,Jarrow,433375,562346
+E14000765,laRent,1762,Jarrow,433375,562346
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000766,sharedOwn,1736,Keighley,404976,442301
+E14000766,laRent,2465,Keighley,404976,442301
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000767,sharedOwn,1486,Kenilworth and Southam,437241,262919
+E14000767,laRent,2622,Kenilworth and Southam,437241,262919
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000768,sharedOwn,5211,Kensington,525186,180099
+E14000768,laRent,9426,Kensington,525186,180099
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000769,sharedOwn,3429,Kettering,484011,281432
+E14000769,laRent,2570,Kettering,484011,281432
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000770,sharedOwn,3741,Kingston and Surbiton,519093,165603
+E14000770,laRent,2013,Kingston and Surbiton,519093,165603
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000771,sharedOwn,7760,Kingston upon Hull East,512777,430608
+E14000771,laRent,3015,Kingston upon Hull East,512777,430608
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000772,sharedOwn,7417,Kingston upon Hull North,508658,433028
+E14000772,laRent,3216,Kingston upon Hull North,508658,433028
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000773,sharedOwn,7068,Kingston upon Hull West and Hessle,505734,427475
+E14000773,laRent,3357,Kingston upon Hull West and Hessle,505734,427475
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000775,sharedOwn,5389,Knowsley,343723,395041
+E14000775,laRent,7423,Knowsley,343723,395041
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000776,sharedOwn,1553,Lancaster and Fleetwood,351457,455584
+E14000776,laRent,2952,Lancaster and Fleetwood,351457,455584
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000777,sharedOwn,14290,Leeds Central,430847,431539
+E14000777,laRent,5002,Leeds Central,430847,431539
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000778,sharedOwn,9591,Leeds East,435554,434825
+E14000778,laRent,3156,Leeds East,435554,434825
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000779,sharedOwn,3818,Leeds North East,430810,439257
+E14000779,laRent,2748,Leeds North East,430810,439257
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000780,sharedOwn,3381,Leeds North West,424636,442264
+E14000780,laRent,1703,Leeds North West,424636,442264
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000781,sharedOwn,10002,Leeds West,425631,433657
+E14000781,laRent,2365,Leeds West,425631,433657
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000783,sharedOwn,5533,Leicester South,459309,302264
+E14000783,laRent,3925,Leicester South,459309,302264
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000784,sharedOwn,8468,Leicester West,456892,306020
+E14000784,laRent,3465,Leicester West,456892,306020
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000785,sharedOwn,5883,Leigh,366046,399339
+E14000785,laRent,1366,Leigh,366046,399339
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000786,sharedOwn,2844,Lewes,544055,109626
+E14000786,laRent,1434,Lewes,544055,109626
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000787,sharedOwn,3519,Lewisham East,539172,173152
+E14000787,laRent,7661,Lewisham East,539172,173152
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000788,sharedOwn,4459,Lewisham West and Penge,535905,171126
+E14000788,laRent,8490,Lewisham West and Penge,535905,171126
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000789,sharedOwn,8682,Lewisham Deptford,536856,176084
+E14000789,laRent,7856,Lewisham Deptford,536856,176084
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000790,sharedOwn,3125,Leyton and Wanstead,539530,187509
+E14000790,laRent,4861,Leyton and Wanstead,539530,187509
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000791,sharedOwn,712,Lichfield,411427,317868
+E14000791,laRent,4658,Lichfield,411427,317868
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000792,sharedOwn,7542,Lincoln,496133,369894
+E14000792,laRent,1874,Lincoln,496133,369894
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000793,sharedOwn,2260,Liverpool Riverside,335934,389035
+E14000793,laRent,13113,Liverpool Riverside,335934,389035
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000794,sharedOwn,2175,Liverpool Walton,337260,394808
+E14000794,laRent,9974,Liverpool Walton,337260,394808
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000795,sharedOwn,1092,Liverpool Wavertree,339402,389705
+E14000795,laRent,6275,Liverpool Wavertree,339402,389705
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000796,sharedOwn,2265,Liverpool West Derby,340456,393656
+E14000796,laRent,8476,Liverpool West Derby,340456,393656
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000798,sharedOwn,928,Louth and Horncastle,533975,378886
+E14000798,laRent,3764,Louth and Horncastle,533975,378886
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000799,sharedOwn,1393,Ludlow,351238,287152
+E14000799,laRent,3081,Ludlow,351238,287152
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000801,sharedOwn,4379,Luton South,509481,220347
+E14000801,laRent,2749,Luton South,509481,220347
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000802,sharedOwn,1195,Macclesfield,392011,373837
+E14000802,laRent,3843,Macclesfield,392011,373837
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000803,sharedOwn,804,Maidenhead,483911,178394
+E14000803,laRent,3825,Maidenhead,483911,178394
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000804,sharedOwn,994,Maidstone and The Weald,575785,144107
+E14000804,laRent,4732,Maidstone and The Weald,575785,144107
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000805,sharedOwn,4717,Makerfield,358266,402385
+E14000805,laRent,999,Makerfield,358266,402385
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000807,sharedOwn,7434,Manchester Central,386403,398398
+E14000807,laRent,12379,Manchester Central,386403,398398
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000808,sharedOwn,3052,Manchester Gorton,386524,395066
+E14000808,laRent,7152,Manchester Gorton,386524,395066
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000809,sharedOwn,1887,Manchester Withington,384057,392182
+E14000809,laRent,5706,Manchester Withington,384057,392182
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000810,sharedOwn,5738,Mansfield,455363,364067
+E14000810,laRent,2127,Mansfield,455363,364067
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000811,sharedOwn,1932,Meon Valley,460848,118118
+E14000811,laRent,2713,Meon Valley,460848,118118
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000812,sharedOwn,6525,Meriden,419731,279181
+E14000812,laRent,2578,Meriden,419731,279181
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000813,sharedOwn,802,Mid Bedfordshire,504037,237783
+E14000813,laRent,5008,Mid Bedfordshire,504037,237783
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000814,sharedOwn,1269,Mid Derbyshire,438677,340953
+E14000814,laRent,1653,Mid Derbyshire,438677,340953
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000815,sharedOwn,784,Mid Dorset and North Poole,393591,94281
+E14000815,laRent,2975,Mid Dorset and North Poole,393591,94281
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000816,sharedOwn,1049,Mid Norfolk,598388,309713
+E14000816,laRent,4665,Mid Norfolk,598388,309713
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000817,sharedOwn,386,Mid Sussex,532484,126854
+E14000817,laRent,4881,Mid Sussex,532484,126854
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000818,sharedOwn,1319,Mid Worcestershire,396402,253784
+E14000818,laRent,6226,Mid Worcestershire,396402,253784
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000819,sharedOwn,4802,Middlesbrough,449576,518701
+E14000819,laRent,4751,Middlesbrough,449576,518701
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000821,sharedOwn,5091,Milton Keynes North,487181,246302
+E14000821,laRent,4510,Milton Keynes North,487181,246302
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000822,sharedOwn,5938,Milton Keynes South,485852,235807
+E14000822,laRent,4909,Milton Keynes South,485852,235807
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000823,sharedOwn,1701,Mitcham and Morden,527572,168658
+E14000823,laRent,6356,Mitcham and Morden,527572,168658
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000824,sharedOwn,1056,Mole Valley,513820,148214
+E14000824,laRent,3595,Mole Valley,513820,148214
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000825,sharedOwn,2206,Morecambe and Lunesdale,351000,469109
+E14000825,laRent,1717,Morecambe and Lunesdale,351000,469109
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000826,sharedOwn,3842,Morley and Outwood,429542,425745
+E14000826,laRent,1683,Morley and Outwood,429542,425745
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000828,sharedOwn,2562,New Forest West,418043,107698
+E14000828,laRent,1262,New Forest West,418043,107698
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000829,sharedOwn,3623,Newark,475951,359380
+E14000829,laRent,1833,Newark,475951,359380
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000831,sharedOwn,8975,Newcastle upon Tyne Central,422533,565563
+E14000831,laRent,4115,Newcastle upon Tyne Central,422533,565563
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000833,sharedOwn,7063,Newcastle upon Tyne North,420269,569925
+E14000833,laRent,1717,Newcastle upon Tyne North,420269,569925
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000834,sharedOwn,2225,Newcastle-under-Lyme,380898,348301
+E14000834,laRent,5053,Newcastle-under-Lyme,380898,348301
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000835,sharedOwn,923,Newton Abbot,288506,73404
+E14000835,laRent,3105,Newton Abbot,288506,73404
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000836,sharedOwn,8174,Normanton Pontefract and Castleford,444323,422700
+E14000836,laRent,3589,Normanton Pontefract and Castleford,444323,422700
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000837,sharedOwn,3082,North Cornwall,215202,83880
+E14000837,laRent,2449,North Cornwall,215202,83880
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000839,sharedOwn,472,North Dorset,388645,111470
+E14000839,laRent,4518,North Dorset,388645,111470
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000840,sharedOwn,3441,North Durham,423762,551698
+E14000840,laRent,4903,North Durham,423762,551698
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000841,sharedOwn,725,North East Bedfordshire,509787,254172
+E14000841,laRent,5786,North East Bedfordshire,509787,254172
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000842,sharedOwn,1309,North East Cambridgeshire,542847,294923
+E14000842,laRent,5395,North East Cambridgeshire,542847,294923
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000843,sharedOwn,6391,North East Derbyshire,436118,372370
+E14000843,laRent,1297,North East Derbyshire,436118,372370
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000844,sharedOwn,390,North East Hampshire,470444,152960
+E14000844,laRent,3766,North East Hampshire,470444,152960
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000845,sharedOwn,2238,North East Hertfordshire,533661,227967
+E14000845,laRent,5976,North East Hertfordshire,533661,227967
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000846,sharedOwn,1374,North East Somerset,366346,161719
+E14000846,laRent,3383,North East Somerset,366346,161719
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000847,sharedOwn,585,North Herefordshire,351291,252312
+E14000847,laRent,3824,North Herefordshire,351291,252312
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000848,sharedOwn,803,North Norfolk,619387,333284
+E14000848,laRent,4370,North Norfolk,619387,333284
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000849,sharedOwn,1945,North Shropshire,348179,330340
+E14000849,laRent,4012,North Shropshire,348179,330340
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000850,sharedOwn,704,North Somerset,348285,169321
+E14000850,laRent,2721,North Somerset,348285,169321
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000851,sharedOwn,4844,North Swindon,417477,190706
+E14000851,laRent,2335,North Swindon,417477,190706
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000852,sharedOwn,2193,North Thanet,626132,166441
+E14000852,laRent,2488,North Thanet,626132,166441
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000853,sharedOwn,8946,North Tyneside,428747,569919
+E14000853,laRent,3907,North Tyneside,428747,569919
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000855,sharedOwn,1971,North West Cambridgeshire,519275,286747
+E14000855,laRent,6087,North West Cambridgeshire,519275,286747
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000856,sharedOwn,2842,North West Durham,403460,541993
+E14000856,laRent,4284,North West Durham,403460,541993
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000857,sharedOwn,1448,North West Hampshire,443950,151839
+E14000857,laRent,6299,North West Hampshire,443950,151839
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000858,sharedOwn,4066,North West Leicestershire,440286,317394
+E14000858,laRent,2023,North West Leicestershire,440286,317394
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000859,sharedOwn,1694,North West Norfolk,570598,328554
+E14000859,laRent,5166,North West Norfolk,570598,328554
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000860,sharedOwn,598,North Wiltshire,397074,181418
+E14000860,laRent,4035,North Wiltshire,397074,181418
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000862,sharedOwn,5457,Northampton South,476237,261092
+E14000862,laRent,2777,Northampton South,476237,261092
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000864,sharedOwn,9213,Norwich South,622784,307613
+E14000864,laRent,4215,Norwich South,622784,307613
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000865,sharedOwn,5750,Nottingham East,458178,341289
+E14000865,laRent,3882,Nottingham East,458178,341289
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000866,sharedOwn,11273,Nottingham North,454231,344249
+E14000866,laRent,2449,Nottingham North,454231,344249
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000868,sharedOwn,3974,Nuneaton,432702,291827
+E14000868,laRent,2192,Nuneaton,432702,291827
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000869,sharedOwn,459,Old Bexley and Sidcup,547524,172880
+E14000869,laRent,2693,Old Bexley and Sidcup,547524,172880
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000648,sharedOwn,4681,Corby,498848,287254
+E14000648,laRent,3739,Corby,498848,287254
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000658,sharedOwn,4850,Darlington,428593,515222
+E14000658,laRent,2642,Darlington,428593,515222
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000659,sharedOwn,4310,Dartford,557568,171607
+E14000659,laRent,2227,Dartford,557568,171607
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000672,sharedOwn,5644,Dudley South,390947,288323
+E14000672,laRent,933,Dudley South,390947,288323
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000679,sharedOwn,6914,East Ham,542866,182466
+E14000679,laRent,5408,East Ham,542866,182466
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000680,sharedOwn,817,East Hampshire,473650,133034
+E14000680,laRent,4948,East Hampshire,473650,133034
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000684,sharedOwn,3296,Eastbourne,559378,100398
+E14000684,laRent,2751,Eastbourne,559378,100398
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000692,sharedOwn,1716,Enfield Southgate,529804,195476
+E14000692,laRent,1546,Enfield Southgate,529804,195476
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000696,sharedOwn,4337,Erith and Thamesmead,548107,179129
+E14000696,laRent,7751,Erith and Thamesmead,548107,179129
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000716,sharedOwn,2012,Great Grimsby,526189,409073
+E14000716,laRent,4317,Great Grimsby,526189,409073
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000719,sharedOwn,4214,Guildford,501078,144568
+E14000719,laRent,1669,Guildford,501078,144568
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000721,sharedOwn,13275,Hackney South and Shoreditch,535143,184674
+E14000721,laRent,11184,Hackney South and Shoreditch,535143,184674
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000732,sharedOwn,1998,Harrow West,514135,187742
+E14000732,laRent,2418,Harrow West,514135,187742
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000750,sharedOwn,15891,Holborn and St Pancras,528838,184564
+E14000750,laRent,7344,Holborn and St Pancras,528838,184564
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000752,sharedOwn,6017,Hornsey and Wood Green,529322,189366
+E14000752,laRent,4376,Hornsey and Wood Green,529322,189366
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000774,sharedOwn,743,Kingswood,366932,172723
+E14000774,laRent,3777,Kingswood,366932,172723
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000782,sharedOwn,4747,Leicester East,461961,305815
+E14000782,laRent,3357,Leicester East,461961,305815
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000797,sharedOwn,3407,Loughborough,455825,319582
+E14000797,laRent,2553,Loughborough,455825,319582
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000800,sharedOwn,4277,Luton North,506804,224207
+E14000800,laRent,1807,Luton North,506804,224207
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000806,sharedOwn,372,Maldon,587440,201495
+E14000806,laRent,3503,Maldon,587440,201495
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000820,sharedOwn,3327,Middlesbrough South and East Cleveland,463875,516081
+E14000820,laRent,4480,Middlesbrough South and East Cleveland,463875,516081
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000827,sharedOwn,2414,New Forest East,433892,105837
+E14000827,laRent,2130,New Forest East,433892,105837
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000830,sharedOwn,610,Newbury,445574,173164
+E14000830,laRent,6588,Newbury,445574,173164
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000832,sharedOwn,8393,Newcastle upon Tyne East,427225,565724
+E14000832,laRent,3213,Newcastle upon Tyne East,427225,565724
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000854,sharedOwn,3748,North Warwickshire,425380,294135
+E14000854,laRent,1752,North Warwickshire,425380,294135
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000861,sharedOwn,4244,Northampton North,477101,263611
+E14000861,laRent,1790,Northampton North,477101,263611
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000863,sharedOwn,5287,Norwich North,624022,311209
+E14000863,laRent,2920,Norwich North,624022,311209
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000867,sharedOwn,5831,Nottingham South,454782,338209
+E14000867,laRent,2611,Nottingham South,454782,338209
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000870,sharedOwn,3573,Oldham East and Saddleworth,398797,406822
+E14000870,laRent,4674,Oldham East and Saddleworth,398797,406822
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000871,sharedOwn,3405,Oldham West and Royton,391118,405451
+E14000871,laRent,6482,Oldham West and Royton,391118,405451
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000872,sharedOwn,481,Orpington,544910,163108
+E14000872,laRent,3348,Orpington,544910,163108
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000873,sharedOwn,6541,Oxford East,453536,205289
+E14000873,laRent,3544,Oxford East,453536,205289
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000874,sharedOwn,1608,Oxford West and Abingdon,448678,205449
+E14000874,laRent,3833,Oxford West and Abingdon,448678,205449
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000875,sharedOwn,1421,Pendle,387762,440997
+E14000875,laRent,3070,Pendle,387762,440997
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000877,sharedOwn,604,Penrith and The Border,356200,536605
+E14000877,laRent,3413,Penrith and The Border,356200,536605
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000878,sharedOwn,3556,Peterborough,524822,303916
+E14000878,laRent,6816,Peterborough,524822,303916
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000879,sharedOwn,4296,Plymouth Moor View,247855,59306
+E14000879,laRent,6116,Plymouth Moor View,247855,59306
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000880,sharedOwn,2691,Plymouth Sutton and Devonport,247835,55649
+E14000880,laRent,6395,Plymouth Sutton and Devonport,247835,55649
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000881,sharedOwn,2603,Poole,402747,90921
+E14000881,laRent,2355,Poole,402747,90921
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000882,sharedOwn,7286,Poplar and Limehouse,537333,180615
+E14000882,laRent,14879,Poplar and Limehouse,537333,180615
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000883,sharedOwn,3801,Portsmouth North,465038,103784
+E14000883,laRent,2423,Portsmouth North,465038,103784
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000884,sharedOwn,5593,Portsmouth South,464560,99730
+E14000884,laRent,3690,Portsmouth South,464560,99730
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000885,sharedOwn,1730,Preston,354260,430174
+E14000885,laRent,7857,Preston,354260,430174
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000887,sharedOwn,6403,Putney,523507,174004
+E14000887,laRent,1648,Putney,523507,174004
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000888,sharedOwn,886,Rayleigh and Wickford,585775,193259
+E14000888,laRent,1797,Rayleigh and Wickford,585775,193259
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000889,sharedOwn,2826,Reading East,472723,173840
+E14000889,laRent,2689,Reading East,472723,173840
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000890,sharedOwn,3936,Reading West,466347,173487
+E14000890,laRent,3639,Reading West,466347,173487
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000891,sharedOwn,3913,Redcar,457680,522194
+E14000891,laRent,4382,Redcar,457680,522194
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000892,sharedOwn,5291,Redditch,401020,260656
+E14000892,laRent,2202,Redditch,401020,260656
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000893,sharedOwn,819,Reigate,526233,152325
+E14000893,laRent,4268,Reigate,526233,152325
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000894,sharedOwn,421,Ribble Valley,369961,444525
+E14000894,laRent,2999,Ribble Valley,369961,444525
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000895,sharedOwn,1830,Richmond Yorks,417682,496778
+E14000895,laRent,4112,Richmond Yorks,417682,496778
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000896,sharedOwn,1725,Richmond Park,519560,173327
+E14000896,laRent,4245,Richmond Park,519560,173327
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000897,sharedOwn,5513,Rochdale,392827,415286
+E14000897,laRent,4000,Rochdale,392827,415286
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000898,sharedOwn,1019,Rochester and Strood,578424,174326
+E14000898,laRent,5522,Rochester and Strood,578424,174326
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000899,sharedOwn,3124,Rochford and Southend East,598066,189476
+E14000899,laRent,4289,Rochford and Southend East,598066,189476
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000901,sharedOwn,1876,Romsey and Southampton North,434996,130393
+E14000901,laRent,2905,Romsey and Southampton North,434996,130393
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000902,sharedOwn,1447,Rossendale and Darwen,376993,420617
+E14000902,laRent,4187,Rossendale and Darwen,376993,420617
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000903,sharedOwn,4394,Rother Valley,450785,386535
+E14000903,laRent,1325,Rother Valley,450785,386535
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000904,sharedOwn,8703,Rotherham,441939,393056
+E14000904,laRent,2020,Rotherham,441939,393056
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000905,sharedOwn,3211,Rugby,445299,280858
+E14000905,laRent,2503,Rugby,445299,280858
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000906,sharedOwn,2688,Ruislip Northwood and Pinner,508335,189580
+E14000906,laRent,1654,Ruislip Northwood and Pinner,508335,189580
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000907,sharedOwn,2862,Runnymede and Weybridge,502665,166430
+E14000907,laRent,2276,Runnymede and Weybridge,502665,166430
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000908,sharedOwn,766,Rushcliffe,461808,331568
+E14000908,laRent,2838,Rushcliffe,461808,331568
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000910,sharedOwn,2930,Saffron Walden,559065,225366
+E14000910,laRent,3594,Saffron Walden,559065,225366
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000911,sharedOwn,6145,Salford and Eccles,379509,400050
+E14000911,laRent,7694,Salford and Eccles,379509,400050
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000912,sharedOwn,3739,Salisbury,413060,132436
+E14000912,laRent,2995,Salisbury,413060,132436
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000913,sharedOwn,1143,Scarborough and Whitby,486565,499888
+E14000913,laRent,5323,Scarborough and Whitby,486565,499888
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000914,sharedOwn,3581,Scunthorpe,493705,404380
+E14000914,laRent,3637,Scunthorpe,493705,404380
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000915,sharedOwn,4119,Sedgefield,431921,524375
+E14000915,laRent,3717,Sedgefield,431921,524375
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000916,sharedOwn,630,Sefton Central,332826,403436
+E14000916,laRent,1764,Sefton Central,332826,403436
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000917,sharedOwn,3187,Selby and Ainsty,452873,438629
+E14000917,laRent,2105,Selby and Ainsty,452873,438629
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000918,sharedOwn,781,Sevenoaks,552174,158984
+E14000918,laRent,4371,Sevenoaks,552174,158984
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000922,sharedOwn,2054,Sheffield Hallam,427391,387420
+E14000922,laRent,764,Sheffield Hallam,427391,387420
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000923,sharedOwn,9410,Sheffield Heeley,436304,383219
+E14000923,laRent,2340,Sheffield Heeley,436304,383219
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000924,sharedOwn,3674,Sherwood,461685,358351
+E14000924,laRent,2184,Sherwood,461685,358351
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000925,sharedOwn,1922,Shipley,411750,439525
+E14000925,laRent,2847,Shipley,411750,439525
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000926,sharedOwn,1733,Shrewsbury and Atcham,347265,308325
+E14000926,laRent,4959,Shrewsbury and Atcham,347265,308325
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000927,sharedOwn,1039,Sittingbourne and Sheppey,593313,166940
+E14000927,laRent,5102,Sittingbourne and Sheppey,593313,166940
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000928,sharedOwn,1617,Skipton and Ripon,402969,465749
+E14000928,laRent,2772,Skipton and Ripon,402969,465749
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000929,sharedOwn,3820,Sleaford and North Hykeham,501545,352513
+E14000929,laRent,1506,Sleaford and North Hykeham,501545,352513
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000931,sharedOwn,2378,Solihull,413833,280272
+E14000931,laRent,1052,Solihull,413833,280272
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000932,sharedOwn,1156,Somerton and Frome,361353,133682
+E14000932,laRent,4756,Somerton and Frome,361353,133682
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000933,sharedOwn,5454,South Basildon and East Thurrock,569191,183957
+E14000933,laRent,2694,South Basildon and East Thurrock,569191,183957
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000934,sharedOwn,4258,South Cambridgeshire,537684,253624
+E14000934,laRent,3218,South Cambridgeshire,537684,253624
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000935,sharedOwn,2780,South Derbyshire,429781,325979
+E14000935,laRent,1686,South Derbyshire,429781,325979
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000936,sharedOwn,885,South Dorset,386254,83904
+E14000936,laRent,4668,South Dorset,386254,83904
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000937,sharedOwn,2216,South East Cambridgeshire,556233,265303
+E14000937,laRent,4979,South East Cambridgeshire,556233,265303
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000938,sharedOwn,3109,South East Cornwall,226278,62630
+E14000938,laRent,1755,South East Cornwall,226278,62630
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000939,sharedOwn,4008,South Holland and The Deepings,532132,323507
+E14000939,laRent,1603,South Holland and The Deepings,532132,323507
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000940,sharedOwn,576,South Leicestershire,454392,291185
+E14000940,laRent,3646,South Leicestershire,454392,291185
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000942,sharedOwn,1181,South Northamptonshire,465665,247186
+E14000942,laRent,3881,South Northamptonshire,465665,247186
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000943,sharedOwn,658,South Ribble,344596,421863
+E14000943,laRent,3866,South Ribble,344596,421863
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000944,sharedOwn,8210,South Shields,437782,564536
+E14000944,laRent,3074,South Shields,437782,564536
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000945,sharedOwn,542,South Staffordshire,387912,297927
+E14000945,laRent,5208,South Staffordshire,387912,297927
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000946,sharedOwn,3501,South Suffolk,598236,243700
+E14000946,laRent,2170,South Suffolk,598236,243700
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000947,sharedOwn,4942,South Swindon,418264,181514
+E14000947,laRent,2823,South Swindon,418264,181514
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000948,sharedOwn,2144,South Thanet,631487,160647
+E14000948,laRent,2824,South Thanet,631487,160647
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000949,sharedOwn,4338,South West Bedfordshire,498039,222943
+E14000949,laRent,2483,South West Bedfordshire,498039,222943
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000950,sharedOwn,603,South West Devon,259916,55445
+E14000950,laRent,2399,South West Devon,259916,55445
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000951,sharedOwn,2915,South West Hertfordshire,500191,203872
+E14000951,laRent,3140,South West Hertfordshire,500191,203872
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000952,sharedOwn,1322,South West Norfolk,575174,298265
+E14000952,laRent,5097,South West Norfolk,575174,298265
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000953,sharedOwn,4004,South West Surrey,492325,140147
+E14000953,laRent,1433,South West Surrey,492325,140147
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000954,sharedOwn,1456,South West Wiltshire,390660,138927
+E14000954,laRent,4909,South West Wiltshire,390660,138927
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000955,sharedOwn,7220,Southampton Itchen,444648,111709
+E14000955,laRent,3251,Southampton Itchen,444648,111709
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000956,sharedOwn,6524,Southampton Test,440396,113800
+E14000956,laRent,3336,Southampton Test,440396,113800
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000957,sharedOwn,1863,Southend West,584921,186853
+E14000957,laRent,993,Southend West,584921,186853
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000958,sharedOwn,504,Southport,332831,417449
+E14000958,laRent,2697,Southport,332831,417449
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000959,sharedOwn,771,Spelthorne,506703,170640
+E14000959,laRent,4525,Spelthorne,506703,170640
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000960,sharedOwn,3277,St Albans,514653,205018
+E14000960,laRent,2284,St Albans,514653,205018
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000961,sharedOwn,1137,St Austell and Newquay,195788,56380
+E14000961,laRent,4108,St Austell and Newquay,195788,56380
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000962,sharedOwn,2957,St Helens North,352498,398293
+E14000962,laRent,6052,St Helens North,352498,398293
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000963,sharedOwn,3022,St Helens South and Whiston,350635,391954
+E14000963,laRent,5943,St Helens South and Whiston,350635,391954
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000964,sharedOwn,1142,St Ives,157017,28251
+E14000964,laRent,4391,St Ives,157017,28251
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000965,sharedOwn,1530,Stafford,391557,319026
+E14000965,laRent,4973,Stafford,391557,319026
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000966,sharedOwn,842,Staffordshire Moorlands,401219,355201
+E14000966,laRent,2044,Staffordshire Moorlands,401219,355201
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000967,sharedOwn,2494,Stalybridge and Hyde,397852,397661
+E14000967,laRent,6331,Stalybridge and Hyde,397852,397661
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000968,sharedOwn,7620,Stevenage,524328,221909
+E14000968,laRent,2613,Stevenage,524328,221909
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000969,sharedOwn,5353,Stockport,388975,390501
+E14000969,laRent,3029,Stockport,388975,390501
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000970,sharedOwn,4979,Stockton North,443736,522015
+E14000970,laRent,3875,Stockton North,443736,522015
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000971,sharedOwn,2225,Stockton South,442817,513593
+E14000971,laRent,2594,Stockton South,442817,513593
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000972,sharedOwn,5465,Stoke-on-Trent Central,388887,346797
+E14000972,laRent,4134,Stoke-on-Trent Central,388887,346797
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000973,sharedOwn,6000,Stoke-on-Trent North,386388,352270
+E14000973,laRent,2980,Stoke-on-Trent North,386388,352270
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000974,sharedOwn,5882,Stoke-on-Trent South,390112,342544
+E14000974,laRent,1501,Stoke-on-Trent South,390112,342544
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000975,sharedOwn,937,Stone,386050,332317
+E14000975,laRent,2665,Stone,386050,332317
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000976,sharedOwn,5101,Stourbridge,391446,284365
+E14000976,laRent,904,Stourbridge,391446,284365
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000978,sharedOwn,6710,Streatham,530116,172851
+E14000978,laRent,5731,Streatham,530116,172851
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000979,sharedOwn,2300,Stretford and Urmston,376829,394502
+E14000979,laRent,6008,Stretford and Urmston,376829,394502
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000981,sharedOwn,1465,Suffolk Coastal,637729,260488
+E14000981,laRent,4920,Suffolk Coastal,637729,260488
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000982,sharedOwn,3535,Sunderland Central,439308,556542
+E14000982,laRent,6028,Sunderland Central,439308,556542
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000983,sharedOwn,1121,Surrey Heath,492253,160183
+E14000983,laRent,3471,Surrey Heath,492253,160183
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000984,sharedOwn,1671,Sutton and Cheam,524791,164399
+E14000984,laRent,2148,Sutton and Cheam,524791,164399
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000985,sharedOwn,1883,Sutton Coldfield,412740,295793
+E14000985,laRent,1552,Sutton Coldfield,412740,295793
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000986,sharedOwn,4191,Tamworth,417526,305475
+E14000986,laRent,2540,Tamworth,417526,305475
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000987,sharedOwn,955,Tatton,373928,378057
+E14000987,laRent,3294,Tatton,373928,378057
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000988,sharedOwn,5276,Taunton Deane,318970,124125
+E14000988,laRent,2904,Taunton Deane,318970,124125
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000989,sharedOwn,3012,Telford,369302,307269
+E14000989,laRent,5357,Telford,369302,307269
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000990,sharedOwn,1154,Tewkesbury,395488,227729
+E14000990,laRent,4414,Tewkesbury,395488,227729
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000991,sharedOwn,1199,The Cotswolds,405759,211933
+E14000991,laRent,5707,The Cotswolds,405759,211933
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000992,sharedOwn,2499,The Wrekin,370035,313886
+E14000992,laRent,3962,The Wrekin,370035,313886
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000993,sharedOwn,633,Thirsk and Malton,469630,478551
+E14000993,laRent,5108,Thirsk and Malton,469630,478551
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000994,sharedOwn,619,Thornbury and Yate,369691,184625
+E14000994,laRent,2886,Thornbury and Yate,369691,184625
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000995,sharedOwn,8513,Thurrock,560352,179311
+E14000995,laRent,1557,Thurrock,560352,179311
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000996,sharedOwn,3432,Tiverton and Honiton,311281,107534
+E14000996,laRent,2078,Tiverton and Honiton,311281,107534
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000997,sharedOwn,862,Tonbridge and Malling,557782,150650
+E14000997,laRent,5867,Tonbridge and Malling,557782,150650
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000998,sharedOwn,3278,Tooting,527617,172306
+E14000998,laRent,3761,Tooting,527617,172306
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000999,sharedOwn,372,Torbay,292124,62262
+E14000999,laRent,3256,Torbay,292124,62262
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001000,sharedOwn,797,Torridge and West Devon,246209,98045
+E14001000,laRent,3515,Torridge and West Devon,246209,98045
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001001,sharedOwn,713,Totnes,277482,53649
+E14001001,laRent,4150,Totnes,277482,53649
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001002,sharedOwn,9613,Tottenham,532989,189635
+E14001002,laRent,6468,Tottenham,532989,189635
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001003,sharedOwn,3359,Truro and Falmouth,182816,46069
+E14001003,laRent,2134,Truro and Falmouth,182816,46069
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001004,sharedOwn,867,Tunbridge Wells,567233,138315
+E14001004,laRent,5534,Tunbridge Wells,567233,138315
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001005,sharedOwn,1010,Twickenham,514803,171376
+E14001005,laRent,4262,Twickenham,514803,171376
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001006,sharedOwn,5123,Tynemouth,433413,571135
+E14001006,laRent,1789,Tynemouth,433413,571135
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001007,sharedOwn,3819,Uxbridge and South Ruislip,508045,183861
+E14001007,laRent,2349,Uxbridge and South Ruislip,508045,183861
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001008,sharedOwn,11230,Vauxhall,530581,177126
+E14001008,laRent,9767,Vauxhall,530581,177126
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001009,sharedOwn,6914,Wakefield,429980,417164
+E14001009,laRent,3562,Wakefield,429980,417164
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001010,sharedOwn,1347,Wallasey,328482,392075
+E14001010,laRent,4362,Wallasey,328482,392075
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001011,sharedOwn,4553,Walsall North,398880,300894
+E14001011,laRent,7389,Walsall North,398880,300894
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001012,sharedOwn,2835,Walsall South,401917,297334
+E14001012,laRent,6798,Walsall South,401917,297334
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001013,sharedOwn,5378,Walthamstow,536673,189246
+E14001013,laRent,4738,Walthamstow,536673,189246
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001014,sharedOwn,3403,Wansbeck,423364,586273
+E14001014,laRent,4056,Wansbeck,423364,586273
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001015,sharedOwn,1185,Wantage,440267,190982
+E14001015,laRent,6841,Wantage,440267,190982
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001017,sharedOwn,3003,Warrington North,363367,392286
+E14001017,laRent,5276,Warrington North,363367,392286
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001018,sharedOwn,1979,Warrington South,361551,386060
+E14001018,laRent,3585,Warrington South,361551,386060
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001019,sharedOwn,4423,Warwick and Leamington,428492,263455
+E14001019,laRent,3140,Warwick and Leamington,428492,263455
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001020,sharedOwn,5700,Washington and Sunderland West,432104,557149
+E14001020,laRent,6344,Washington and Sunderland West,432104,557149
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001021,sharedOwn,1902,Watford,510280,198279
+E14001021,laRent,5747,Watford,510280,198279
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001022,sharedOwn,3458,Waveney,642920,288780
+E14001022,laRent,3179,Waveney,642920,288780
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001023,sharedOwn,2203,Wealden,552124,125934
+E14001023,laRent,2227,Wealden,552124,125934
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001024,sharedOwn,1556,Weaver Vale,356418,375808
+E14001024,laRent,5107,Weaver Vale,356418,375808
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001025,sharedOwn,2215,Wellingborough,490959,266506
+E14001025,laRent,5715,Wellingborough,490959,266506
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001026,sharedOwn,1468,Wells,347789,148393
+E14001026,laRent,3752,Wells,347789,148393
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001027,sharedOwn,8297,Welwyn Hatfield,524176,210018
+E14001027,laRent,3312,Welwyn Hatfield,524176,210018
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001028,sharedOwn,7449,Wentworth and Dearne,444488,398719
+E14001028,laRent,1916,Wentworth and Dearne,444488,398719
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001029,sharedOwn,7956,West Bromwich East,401814,293188
+E14001029,laRent,2165,West Bromwich East,401814,293188
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001030,sharedOwn,9086,West Bromwich West,397634,292497
+E14001030,laRent,2331,West Bromwich West,397634,292497
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001031,sharedOwn,441,West Dorset,358525,99028
+E14001031,laRent,6100,West Dorset,358525,99028
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001032,sharedOwn,11075,West Ham,539933,183221
+E14001032,laRent,8993,West Ham,539933,183221
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001033,sharedOwn,5264,West Lancashire,342502,408895
+E14001033,laRent,1224,West Lancashire,342502,408895
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001034,sharedOwn,2556,West Suffolk,577190,269446
+E14001034,laRent,5680,West Suffolk,577190,269446
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001035,sharedOwn,902,West Worcestershire,380076,251388
+E14001035,laRent,5345,West Worcestershire,380076,251388
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001036,sharedOwn,8342,Westminster North,526372,182217
+E14001036,laRent,7156,Westminster North,526372,182217
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001037,sharedOwn,1715,Westmorland and Lonsdale,348122,490338
+E14001037,laRent,2579,Westmorland and Lonsdale,348122,490338
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001038,sharedOwn,1299,Weston-Super-Mare,338855,160940
+E14001038,laRent,3990,Weston-Super-Mare,338855,160940
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001039,sharedOwn,7763,Wigan,357394,408122
+E14001039,laRent,1716,Wigan,357394,408122
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001040,sharedOwn,644,Wimbledon,524132,170120
+E14001040,laRent,2901,Wimbledon,524132,170120
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001041,sharedOwn,3857,Winchester,449821,132691
+E14001041,laRent,2284,Winchester,449821,132691
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001042,sharedOwn,685,Windsor,493736,172466
+E14001042,laRent,4171,Windsor,493736,172466
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001043,sharedOwn,699,Wirral South,331415,381804
+E14001043,laRent,2391,Wirral South,331415,381804
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001045,sharedOwn,1459,Witham,587217,215790
+E14001045,laRent,4069,Witham,587217,215790
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001046,sharedOwn,788,Witney,434140,215574
+E14001046,laRent,5575,Witney,434140,215574
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001047,sharedOwn,3094,Woking,497654,156686
+E14001047,laRent,1913,Woking,497654,156686
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001048,sharedOwn,1594,Wokingham,470135,167611
+E14001048,laRent,2574,Wokingham,470135,167611
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001049,sharedOwn,9098,Wolverhampton North East,392977,301431
+E14001049,laRent,2212,Wolverhampton North East,392977,301431
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001050,sharedOwn,8313,Wolverhampton South East,393865,296072
+E14001050,laRent,2434,Wolverhampton South East,393865,296072
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001051,sharedOwn,3542,Wolverhampton South West,389555,298823
+E14001051,laRent,2448,Wolverhampton South West,389555,298823
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001052,sharedOwn,2155,Worcester,385601,255395
+E14001052,laRent,5114,Worcester,385601,255395
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001053,sharedOwn,940,Workington,317217,543220
+E14001053,laRent,6201,Workington,317217,543220
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001054,sharedOwn,6052,Worsley and Eccles South,372909,398540
+E14001054,laRent,5323,Worsley and Eccles South,372909,398540
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001055,sharedOwn,1225,Worthing West,509957,103295
+E14001055,laRent,3409,Worthing West,509957,103295
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001056,sharedOwn,1237,Wycombe,481331,190499
+E14001056,laRent,4927,Wycombe,481331,190499
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001057,sharedOwn,203,Wyre and Preston North,348680,440181
+E14001057,laRent,2010,Wyre and Preston North,348680,440181
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001058,sharedOwn,2946,Wyre Forest,381220,275697
+E14001058,laRent,3465,Wyre Forest,381220,275697
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001059,sharedOwn,5676,Wythenshawe and Sale East,381562,388102
+E14001059,laRent,9693,Wythenshawe and Sale East,381562,388102
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001060,sharedOwn,1631,Yeovil,342614,113667
+E14001060,laRent,5940,Yeovil,342614,113667
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001061,sharedOwn,6057,York Central,460062,451679
+E14001061,laRent,2390,York Central,460062,451679
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001062,sharedOwn,1095,York Outer,461885,451698
+E14001062,laRent,2382,York Outer,461885,451698
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000041,sharedOwn,3783,Ynys Mon,241754,379134
+W07000041,laRent,1037,Ynys Mon,241754,379134
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000042,sharedOwn,3322,Delyn,318592,372482
+W07000042,laRent,1405,Delyn,318592,372482
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000043,sharedOwn,3663,Alyn and Deeside,330549,363616
+W07000043,laRent,1324,Alyn and Deeside,330549,363616
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000044,sharedOwn,5198,Wrexham,336469,353444
+W07000044,laRent,1251,Wrexham,336469,353444
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000045,sharedOwn,4539,Llanelli,248821,204660
+W07000045,laRent,1376,Llanelli,248821,204660
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000046,sharedOwn,2577,Gower,255458,195757
+W07000046,laRent,1320,Gower,255458,195757
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000047,sharedOwn,4366,Swansea West,262512,193166
+W07000047,laRent,3449,Swansea West,262512,193166
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000048,sharedOwn,5314,Swansea East,267762,196887
+W07000048,laRent,3019,Swansea East,267762,196887
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000049,sharedOwn,2434,Aberavon,280583,192230
+W07000049,laRent,3632,Aberavon,280583,192230
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000050,sharedOwn,1586,Cardiff Central,319427,179040
+W07000050,laRent,2845,Cardiff Central,319427,179040
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000051,sharedOwn,1951,Cardiff North,317368,182109
+W07000051,laRent,1851,Cardiff North,317368,182109
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000052,sharedOwn,1462,Rhondda,297145,195888
+W07000052,laRent,2221,Rhondda,297145,195888
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000053,sharedOwn,3128,Torfaen,326949,200749
+W07000053,laRent,5832,Torfaen,326949,200749
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000054,sharedOwn,1351,Monmouth,339841,208108
+W07000054,laRent,3808,Monmouth,339841,208108
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000055,sharedOwn,2592,Newport East,340720,186427
+W07000055,laRent,3775,Newport East,340720,186427
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000056,sharedOwn,3394,Newport West,328742,186167
+W07000056,laRent,4305,Newport West,328742,186167
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000057,sharedOwn,2170,Arfon,256761,361976
+W07000057,laRent,2639,Arfon,256761,361976
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000058,sharedOwn,948,Aberconwy,276643,361147
+W07000058,laRent,2183,Aberconwy,276643,361147
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000059,sharedOwn,1546,Clwyd West,300159,359262
+W07000059,laRent,2317,Clwyd West,300159,359262
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000060,sharedOwn,2521,Vale of Clwyd,305973,372345
+W07000060,laRent,1841,Vale of Clwyd,305973,372345
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000061,sharedOwn,1354,Dwyfor Meirionnydd,265350,329537
+W07000061,laRent,2394,Dwyfor Meirionnydd,265350,329537
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000062,sharedOwn,5093,Clwyd South,323678,341414
+W07000062,laRent,1166,Clwyd South,323678,341414
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000063,sharedOwn,2574,Montgomeryshire,303760,304109
+W07000063,laRent,1722,Montgomeryshire,303760,304109
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000064,sharedOwn,752,Ceredigion,258393,263821
+W07000064,laRent,2487,Ceredigion,258393,263821
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000065,sharedOwn,3643,Preseli Pembrokeshire,200063,227112
+W07000065,laRent,2055,Preseli Pembrokeshire,200063,227112
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000066,sharedOwn,3147,Carmarthen West and South Pembrokeshire,218484,214420
+W07000066,laRent,2076,Carmarthen West and South Pembrokeshire,218484,214420
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000067,sharedOwn,2902,Carmarthen East and Dinefwr,260137,229591
+W07000067,laRent,954,Carmarthen East and Dinefwr,260137,229591
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000068,sharedOwn,2720,Brecon and Radnorshire,304106,245996
+W07000068,laRent,1465,Brecon and Radnorshire,304106,245996
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000069,sharedOwn,2223,Neath,278820,204203
+W07000069,laRent,3710,Neath,278820,204203
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000070,sharedOwn,2138,Cynon Valley,299640,203114
+W07000070,laRent,2743,Cynon Valley,299640,203114
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000071,sharedOwn,3648,Merthyr Tydfil and Rhymney,307950,205331
+W07000071,laRent,3733,Merthyr Tydfil and Rhymney,307950,205331
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000072,sharedOwn,2776,Blaenau Gwent,317711,208267
+W07000072,laRent,4418,Blaenau Gwent,317711,208267
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000073,sharedOwn,1043,Bridgend,286356,179872
+W07000073,laRent,4024,Bridgend,286356,179872
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000074,sharedOwn,1488,Ogmore,292446,187405
+W07000074,laRent,3245,Ogmore,292446,187405
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000876,sharedOwn,4485,Penistone and Stocksbridge,425226,400209
+E14000876,laRent,748,Penistone and Stocksbridge,425226,400209
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000886,sharedOwn,3802,Pudsey,420850,437983
+E14000886,laRent,964,Pudsey,420850,437983
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000900,sharedOwn,2947,Romford,551029,190517
+E14000900,laRent,1943,Romford,551029,190517
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000909,sharedOwn,1980,Rutland and Melton,481671,312634
+E14000909,laRent,2625,Rutland and Melton,481671,312634
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000919,sharedOwn,4691,Sheffield Central,435148,386678
+E14000919,laRent,5868,Sheffield Central,435148,386678
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000920,sharedOwn,6491,Sheffield South East,440989,385283
+E14000920,laRent,2116,Sheffield South East,440989,385283
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000921,sharedOwn,10457,Sheffield Brightside and Hillsborough,435582,391139
+E14000921,laRent,4777,Sheffield Brightside and Hillsborough,435582,391139
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000930,sharedOwn,6237,Slough,497278,180263
+E14000930,laRent,3658,Slough,497278,180263
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000941,sharedOwn,1150,South Norfolk,624391,294731
+E14000941,laRent,4620,South Norfolk,624391,294731
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000977,sharedOwn,668,Stratford-on-Avon,419797,252401
+E14000977,laRent,4974,Stratford-on-Avon,419797,252401
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000980,sharedOwn,3997,Stroud,379587,205223
+E14000980,laRent,1759,Stroud,379587,205223
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001016,sharedOwn,6576,Warley,400730,287735
+E14001016,laRent,2016,Warley,400730,287735
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14001044,sharedOwn,1004,Wirral West,322488,387648
+E14001044,laRent,2279,Wirral West,322488,387648
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000538,sharedOwn,1847,Aylesbury,483251,204671
+E14000538,laRent,5344,Aylesbury,483251,204671
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000647,sharedOwn,1710,Copeland,314385,509746
+E14000647,laRent,4310,Copeland,314385,509746
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000651,sharedOwn,2363,Coventry South,432361,277130
+E14000651,laRent,5563,Coventry South,432361,277130
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+E14000838,sharedOwn,1110,North Devon,265875,131758
+E14000838,laRent,3701,North Devon,265875,131758
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000075,sharedOwn,1700,Pontypridd,306236,186477
+W07000075,laRent,2786,Pontypridd,306236,186477
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000076,sharedOwn,4537,Caerphilly,315769,190571
+W07000076,laRent,2204,Caerphilly,315769,190571
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000077,sharedOwn,4048,Islwyn,319942,196459
+W07000077,laRent,1780,Islwyn,319942,196459
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000078,sharedOwn,3037,Vale of Glamorgan,302168,172801
+W07000078,laRent,2805,Vale of Glamorgan,302168,172801
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000079,sharedOwn,4903,Cardiff West,311985,179362
+W07000079,laRent,3279,Cardiff West,311985,179362
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+W07000080,sharedOwn,5065,Cardiff South and Penarth,320239,175163
+W07000080,laRent,4978,Cardiff South and Penarth,320239,175163
